@@ -76,17 +76,17 @@ your program should be (without the dots):
 1. Ask user for input until they type a positive integer.
 1. Ask user for input until they type a negative integer.
 1. Ask user for integer and print all its
-  [https://en.wikipedia.org/wiki/Numerical_digit](numerical digits)
+  [numerical digits](https://en.wikipedia.org/wiki/Numerical_digit)
   (e.g: for input `32986`, your program should print `3`, `2`, `9`, `8`, `6`,
   in whichever order).
 1. Ask user for integer and print the largest
-  [https://en.wikipedia.org/wiki/Numerical_digit](numerical digit)
+  [numerical digit](https://en.wikipedia.org/wiki/Numerical_digit)
   (e.g: for input `3945`, your program should print `9`).
 1. Ask user for integer and print the sum of all its
-  [https://en.wikipedia.org/wiki/Numerical_digit](numerical digits)
+  [numerical digits](https://en.wikipedia.org/wiki/Numerical_digit)
   (e.g: for input `12345`, you should print `15`: `1 + 2 + 3 + 4 + 5`).
 1. Ask user for integer and print every other
-  [https://en.wikipedia.org/wiki/Numerical_digit](numerical digit)
+  [numerical digit](https://en.wikipedia.org/wiki/Numerical_digit)
   (e.g: for input `12345`, you should print `1`, `3` and `5`, in whichever
   order).
 1. Ask user for integer and check if the sum of its digits is a multiple of 10
