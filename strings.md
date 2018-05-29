@@ -230,7 +230,7 @@ harry POTTER
 *Output*
 ```
 Star Wards: A New Hope
-The Lord of the Rings: The Fellowship of the Ring
+The Lord Of The Rings: The Fellowship Of The Ring
 Harry Potter
 007
 ```
